@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "DO101-apps",
+			"path": "../DO101-apps"
+		}
+	],
+	"settings": {}
+}
